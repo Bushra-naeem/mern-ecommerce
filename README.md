@@ -1,4 +1,4 @@
-# MERN E-commerce
+# mern e-commerce store
 
 This is a full-stack e-commerce application built using the MERN (MongoDB, Express.js, React, Node.js) stack.
 
